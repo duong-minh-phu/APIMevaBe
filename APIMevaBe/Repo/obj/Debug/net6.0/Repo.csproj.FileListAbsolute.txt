@@ -1,0 +1,15 @@
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.csproj.AssemblyReference.cache
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.AssemblyInfoInputs.cache
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.AssemblyInfo.cs
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.csproj.CoreCompileInputs.cache
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.sourcelink.json
+D:\ki8\APIMevaBe\APIMevaBe\Repo\bin\Debug\net6.0\Repo.deps.json
+D:\ki8\APIMevaBe\APIMevaBe\Repo\bin\Debug\net6.0\Repo.runtimeconfig.json
+D:\ki8\APIMevaBe\APIMevaBe\Repo\bin\Debug\net6.0\Repo.dll
+D:\ki8\APIMevaBe\APIMevaBe\Repo\bin\Debug\net6.0\Repo.pdb
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.dll
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\refint\Repo.dll
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.pdb
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\Repo.genruntimeconfig.cache
+D:\ki8\APIMevaBe\APIMevaBe\Repo\obj\Debug\net6.0\ref\Repo.dll

@@ -2387,11 +2387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Repo\\Repo.csproj",
+      "projectUniqueName": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Repo\\Repo.csproj",
       "projectName": "Repo",
-      "projectPath": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Repo\\Repo.csproj",
+      "projectPath": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Repo\\Repo.csproj",
       "packagesPath": "C:\\Users\\phuma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Repo\\obj\\",
+      "outputPath": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Repo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

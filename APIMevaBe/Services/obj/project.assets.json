@@ -2302,11 +2302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Services\\Services.csproj",
+      "projectPath": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\phuma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Services\\obj\\",
+      "outputPath": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2327,8 +2327,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Repo\\Repo.csproj": {
-              "projectPath": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Repo\\Repo.csproj"
+            "D:\\ki8\\APIMevaBe\\APIMevaBe\\Repo\\Repo.csproj": {
+              "projectPath": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Repo\\Repo.csproj"
             }
           }
         }

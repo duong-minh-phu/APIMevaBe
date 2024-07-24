@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/mjUMsHBok5Nw3yfYC8EbbL/jpDPDuxepNM7bXXzrgm+0WTEApDPATYz/tTBDKheudukt5bYoDeXLUkww7e/uA==",
+  "dgSpecHash": "Q91MDlIBhZFdfheiEC9Oojy5whwHuSN24upD1YienksZTv9LCjmo+TSqwvQ2kdiDvcNWh4cIsRENMCdxZ2w45g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phuma\\source\\repos\\APIMevaBe\\Services\\Services.csproj",
+  "projectFilePath": "D:\\ki8\\APIMevaBe\\APIMevaBe\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phuma\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\phuma\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

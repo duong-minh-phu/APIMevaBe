@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Repo.Models;
 
 namespace PRN221_MeVaBe_Repo.Models;
 

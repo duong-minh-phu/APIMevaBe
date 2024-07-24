@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Repo.Models;
+using System;
 using System.Collections.Generic;
 
 namespace PRN221_MeVaBe_Repo.Models;
