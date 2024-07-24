@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\APIMevaBe",
+    "\\APIMevaBe\\Controllers"
   ],
-  "SelectedNode": "\\APIMevaBe.sln",
+  "SelectedNode": "\\APIMevaBe\\Controllers\\ProductController.cs",
   "PreviewInSolutionExplorer": false
 }
