@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\APIMevaBe",
-    "\\APIMevaBe\\Controllers"
+    "\\APIMevaBe\\Controllers",
+    "\\Repo",
+    "\\Repo\\Models"
   ],
-  "SelectedNode": "\\APIMevaBe.sln",
+  "SelectedNode": "\\Repo\\Models\\CartItem.cs",
   "PreviewInSolutionExplorer": false
 }
