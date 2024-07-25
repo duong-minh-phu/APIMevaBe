@@ -5,7 +5,7 @@ namespace APIMevaBe.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoryController : ControllerBase
+    public class ProductCategoryController : ControllerBase
     {
     }
 }
