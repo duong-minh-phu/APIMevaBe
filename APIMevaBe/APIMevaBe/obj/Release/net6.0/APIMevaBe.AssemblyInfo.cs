@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIMevaBe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef60e2afeebbd7e35e0bf973151d5458d238e2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cffbc43c3171a2a8564b3e02c80f954e1e6fcc6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIMevaBe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIMevaBe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
